@@ -1,4 +1,5 @@
 # awesome-data-project
 Adrian Gutierrez
 UIC
-Ideas: Preventing blindness, identifying impact of pesticides
+Dream Projects:
+Applied Macroeconomics analysis, Cancer treatments, blindness, urban conflicts
